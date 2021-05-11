@@ -1,6 +1,10 @@
-[![Header](https://raw.githubusercontent.com/alindaByamukama/MartinHeinz/master/GitHub-banner.png "Header")](https://alindasusan.netlify.app/)
+[![Alinda's Header](GitHub-banner.png)](https://alindasusan.netlify.app/)
 
 ### Hi there 👋
+### 🔭 I’m currently working on mastering Vanilla JavaScript by creating various projects 🔭
+### 🌱 I’m currently learning JavaScript 🌱
+### 📫 How to reach me 📫
+
 
 <!--
 **alindaByamukama/alindaByamukama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
