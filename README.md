@@ -1,4 +1,4 @@
-[![Social banner for Alinda](https://github.com/alindaByamukama/alindaByamukama/raw/main/Alinda Byamukama)](https://alindasusan.netlify.app/)
+[![Header](https://raw.githubusercontent.com/alindaByamukama/MartinHeinz/master/GitHub-banner.png "Header")](https://alindasusan.netlify.app/)
 
 ### Hi there 👋
 
