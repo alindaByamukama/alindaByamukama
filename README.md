@@ -37,6 +37,15 @@ My current focus is on 🌱growing🌱 my web development and UX/UI design skill
 
 <br>
 
+## 💬 A quote for thought
+##### Ellen Ullman, Close to the Machine: Technophilia and its Discontents
+
+🔭 “We think we are creating the system for our own purposes. We
+believe we are making it in our own image... But the computer is
+not really like us. It is a projection of a very slim part of ourselves:
+that portion devoted to logic, order, rule, and clarity.” 🔭
+
+<br>
 <!-- Main resource Used to create this readme (https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1) -->
 <!--
 **alindaByamukama/alindaByamukama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
