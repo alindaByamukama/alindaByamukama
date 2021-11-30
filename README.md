@@ -1,15 +1,14 @@
-[![Alinda's Header](GitHub-banner.png)](https://alindasusan.netlify.app/)
+[![Alinda's Header](GitHub-banner.png)](https://#/)
 
 ## 👋 Hello there!
 My name is Alinda Byamukama, I am a Junior developer based in Kampala - Uganda, with a keen interest in User Experience and User Interface design. 
 My current focus is on 🌱growing🌱 my web development and UX/UI design skills so that I can create ✨holistic, user centric, online experiences✨ for people to benefit from and enjoy 😄 
 
- 🌱 I’m currently learning Vanilla JavaScript, CSS & HTML 🌱
+ 🌱 I’m currently learning AngularJS, ReactJS, NodeJS, Vanilla JavaScript and a little bit of TypeScript where needed 🌱
 <br>
 
- 🔭 I am working towards being a ✨FullStack Developer✨ with the Outbox Uganda FullStack Online Bootcamp 🔭
+ 🔭 I am working towards being a ✨FullStack Developer✨ with the Google Africa Developer Scholarship 2021 and Pluralsight. I also leverage Free Courses on Scrimba and Wes Bos from time to time. In future I hope to qualify for the AltSchool Africa program in 2022 and the Udacity Bertelsman Technology Scholarship in December 2021 ... I will update on progress as time goes on 🔭
  
- (Check out my personal website by clicking on my banner image above.)
 
 <br>
 
@@ -38,12 +37,13 @@ My current focus is on 🌱growing🌱 my web development and UX/UI design skill
 <br>
 
 ## 💬 A quote for thought
-##### Ellen Ullman, Close to the Machine: Technophilia and its Discontents
+##### Reshma Saujani, Founder of Girls Who Code
 
-🔭 “We think we are creating the system for our own purposes. We
-believe we are making it in our own image... But the computer is
-not really like us. It is a projection of a very slim part of ourselves:
-that portion devoted to logic, order, rule, and clarity.” 🔭
+🔭 “Everything I’ve achieved has come from perseverance.  I’ve never met another entrepreneur who had a painless path to success -- everyone who tries to bring new ideas to the world is tested. All aspiring entrepreneurs should remember that failure doesn't mean the end of the road. It can lay the groundwork for something even greater.” 🔭
+
+Reshma Saujani is a lawyer and politician who was the first Indian-American woman to run for Congress. She founded Girls Who Code, an organization which supports and aims to increase the number of women in tech. 
+
+You can follow her on Twitter @reshmasaujani and LinkedIn <a href='www.linkedin.com/in/reshma-saujani/' title='reshma-saujani'>here</a>
 
 <br>
 <!-- Main resource Used to create this readme (https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1) -->
