@@ -39,7 +39,7 @@ My current focus is on sharpening my web development skills and continuosly lear
 
 Reshma Saujani is a lawyer and politician who was the first Indian-American woman to run for Congress. She founded Girls Who Code, an organization which supports and aims to increase the number of women in tech. 
 
-You can follow her on Twitter @reshmasaujani and LinkedIn <a href='www.linkedin.com/in/reshma-saujani/' title='reshma-saujani'>here</a>
+You can follow her on Twitter @reshmasaujani and <a href='www.linkedin.com/in/reshma-saujani/' title='reshma-saujani'>LinkedIn</a>.
 
 <br>
 <!-- Main resource Used to create this readme (https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1) -->
