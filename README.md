@@ -1,16 +1,12 @@
 [![Alinda's Header](GitHub-banner.png)](https://#/)
 
 ## 👋 Hello there!
-My name is Alinda Byamukama, I am a Junior developer based in Kampala - Uganda, with a keen interest in User Experience and User Interface design. 
-My current focus is on 🌱growing🌱 my web development and UX/UI design skills so that I can create ✨holistic, user centric, online experiences✨ for people to benefit from and enjoy 😄 
+My name is Alinda Byamukama, I am a Junior developer based in Kampala - Uganda, with a keen interest in the intersection of web deelopment and social transformation. 
+My current focus is on sharpening my web development skills and continuosly learning about how tech can be best used to create a positive impact on society.
 
  🌱 I’m currently learning AngularJS, ReactJS, NodeJS, Vanilla JavaScript and a little bit of TypeScript where needed 🌱
-<br>
 
  🔭 I am working towards being a ✨FullStack Developer✨ with the Google Africa Developer Scholarship 2021 and Pluralsight. I also leverage Free Courses on Scrimba and Wes Bos from time to time. In future I hope to qualify for the AltSchool Africa program in 2022 and the Udacity Bertelsman Technology Scholarship in December 2021 ... I will update on progress as time goes on 🔭
- 
-
-<br>
 
 ## &#x1f4c8; GitHub Stats
 <!--Anurag Hazra‘s GitHub ReadMe Stats (https://github.com/anuraghazra/github-readme-stats)-->
