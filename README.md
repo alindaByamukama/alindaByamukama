@@ -1,9 +1,9 @@
-[![Alinda's Header](GitHub-banner.png)](https://#/)
+[![Alinda's Header](darkgreen.png)](https://#/)
 
 ## 👋 Hello and Welcome!
-My name is Alinda Byamukama, this is my web development profile on Github. Feel free to take a look around, if you would like to reach out - send me a message on Twitter. 
+My name is Alinda Byamukama, this is my web development profile on Github. Feel free to take a look at my repositories. If you would like to reach out - send me a message on Twitter. 
 
-🔭 My focus is currently on JavaScript, and once I am comfortable with JS - I will move on to ReactJS and NodeJS. 
+🔭 My focus is currently on learning enough JavaScript to confidently move on to learning ReactJS and NodeJS. 
 
 🌱 My approach to learning is to first <em>Understand</em> the concepts, then <em>Practice</em> by applying the concepts in projects and finally <em>Teach</em> or share what I have learned through technical writing. 
 
@@ -24,6 +24,10 @@ My name is Alinda Byamukama, this is my web development profile on Github. Feel 
 </a>
 
 <br>
+<br>
+
+[![Alinda's orange banner](ornagebanner.png)](https://#/)
+
 
 <!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/)
