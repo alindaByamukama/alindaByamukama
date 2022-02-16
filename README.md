@@ -1,15 +1,29 @@
 [![Alinda's Header](darkgreen.png)](https://#/)
 
 ## 👋 Hello and Welcome!
-My name is Alinda Byamukama, this is my web development profile on Github. Feel free to take a look at my repositories. If you would like to reach out - send me a message on Twitter. 
+My name is Alinda Byamukama, thanks for visiting my Github web development profile. 
+💃🏿 My Pronouns: She/Her. 
+🇺🇬 Location: Kampala, Uganda. 
+Feel free to take a look at my projects, if you have suggestions or queries, you can reach me on tiwtter 🐦
 
-🔭 My focus is currently on learning enough JavaScript to confidently move on to learning ReactJS and NodeJS. 
+### 👩‍💻 Learning front end development online one day at a time - <em> Understand | Practice | Share </em>
 
-🌱 My approach to learning is to first <em>Understand</em> the concepts, then <em>Practice</em> by applying the concepts in projects and finally <em>Teach</em> or share what I have learned through technical writing. 
+🔭 My focus is on learning JavaScript and either Vue or React and getting my first Junior Dev job within a year.
+
+🌱 My goal is to be a full stack developer in two years or less 🤞 
+
+✨ My dream is to eventually enter the world of Developer Operations (DevOps) or Cloud Development ✨
 
 ## 📫 Here is where you can find me ...
 <!--SOCIAL BADGES-->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama)
+
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/)
+
+
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://alindabyamukama.medium.com/)
+
 
 ## &#x1f4c8; GitHub Stats
 <!--Anurag Hazra‘s GitHub ReadMe Stats (https://github.com/anuraghazra/github-readme-stats)-->
@@ -28,13 +42,6 @@ My name is Alinda Byamukama, this is my web development profile on Github. Feel 
 
 [![Alinda's orange banner](ornagebanner.png)](https://#/)
 
-
-<!--
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/)
-
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://alindabyamukama.medium.com/)
--->
-
 <br>
 
 <!-- Main resource Used to create this readme (https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1) -->
@@ -51,4 +58,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... 
+- ✨ Sparkles ... could be used for anything!
 -->
