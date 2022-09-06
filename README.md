@@ -9,8 +9,12 @@
 
 ---
 
-<p>🔭 I’m currently working on JavaScript and ReactJS. Soon I will be learning NodeJS, ExpressJS, SQL.</p>
-<p>🌱 I am currently enrolled in <a href="https://zerotomastery.io/courses/coding-bootcamp/" title="ZeroToMastery" target="_blank">The Complete Web Developer in 2022 bootcamp at the Zero to Mastery Academy</a>.</p>
+<p>🔭 I’m currently working on JavaScript and ReactJS.</p>
+<p>🌱 I am currently enrolled in:</p>
+
+- <a href="https://zerotomastery.io/courses/coding-bootcamp/" title="ZeroToMastery" target="_blank">The Complete Web Developer in 2022 bootcamp at the Zero to Mastery Academy</a>
+- <a href="https://www.refactory.ug/">Refactory Uganda - Catalyst Course 12th Cohort- August 2022</a>
+
 <p>😄 My Pronouns: She/Her.</p>
 <p>📫 Location: Kampala City, Kampala - Uganda.</p>
 <p>
@@ -74,6 +78,7 @@
     />
     </a>
 <!--  NODEJS  -->
+<!--
     <a href="https://www.nodejs.com" target="_blank" rel="noreferrer">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -82,7 +87,9 @@
     height="100"
     />
     </a>
+    -->
 <!--  EXPRESSJS  -->
+<!--
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
     src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
@@ -91,7 +98,9 @@
     height="100"
     />
     </a>
+    -->
 <!--  SQL  -->
+<!--
       <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer">
     <img
     src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"
@@ -100,6 +109,7 @@
     height="100"
     />
     </a>
+    -->
 </p>
 
 ---
