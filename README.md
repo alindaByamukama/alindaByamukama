@@ -12,7 +12,7 @@
 <p>🔭 I’m currently working on JavaScript and ReactJS.</p>
 <p>🌱 I am currently enrolled in:</p>
 
-- <a href="https://zerotomastery.io/courses/coding-bootcamp/" title="ZeroToMastery" target="_blank">The Complete Web Developer in 2022 bootcamp at the Zero to Mastery Academy</a>
+<!-- - <a href="https://zerotomastery.io/courses/coding-bootcamp/" title="ZeroToMastery" target="_blank">The Complete Web Developer in 2022 bootcamp at the Zero to Mastery Academy</a> -->
 - <a href="https://www.refactory.ug/">Refactory Uganda - Catalyst Course 12th Cohort- August 2022</a>
 
 <p>😄 My Pronouns: She/Her.</p>
