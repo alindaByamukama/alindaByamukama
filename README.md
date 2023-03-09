@@ -4,24 +4,32 @@
 
 ---
 
-> My name is Alinda Byamukama, thanks for visiting my web development profile on GitHub.
->> ✨ I am a Junior Developer steadily progressing into a Full Stack JavaScript Developer ✨ 
+> My name is Alinda Byamukama, thanks for visiting my GitHub profile.
+>> ✨ I am a Junior Developer expanding my skills everyday✨ 
+<p>😄 My Pronouns: She/Her.</p>
+<p>📫 Location: Kampala City, Kampala - Uganda.</p>
+
+✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) . 
 
 ---
 
-<p>🔭 I’m currently working on JavaScript and NodeJS.</p>
 <p>🌱 I am currently enrolled in:</p>
 
-<!-- - <a href="https://zerotomastery.io/courses/coding-bootcamp/" title="ZeroToMastery" target="_blank">The Complete Web Developer in 2022 bootcamp at the Zero to Mastery Academy</a> -->
-- <a href="https://www.refactory.ug/">Refactory Uganda - Catalyst Course 12th Cohort- August 2022</a>
+<a href="https://www.refactory.ug/">Refactory Uganda - Software Engineering Bootcamp 12th Cohort- February - July 2023</a>
 
-<p>😄 My Pronouns: She/Her.</p>
-<p>📫 Location: Kampala City, Kampala - Uganda.</p>
-<p>
-    
-✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) . 
-
-</p>
+<p>🔭 As part of my bootcamp training I’m currently learning:-</p>
+<ul>
+    <li> UML </li>
+    <li> S.O.L.I.D Software Principles </li>
+    <li> OOP </li>
+    <li> Databasing </li>
+    <li> Software Design Patterns </li>
+    <li> TDD </li>
+    <li> CI/CD </li>
+    <li> BDD </li>
+    <li> UX/UI </li>
+    <li> Refactoring </li>
+</ul>
 
 ---
 
@@ -78,7 +86,6 @@
     />
     </a>
 <!--  NODEJS  -->
-<!--
     <a href="https://www.nodejs.com" target="_blank" rel="noreferrer">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -87,10 +94,8 @@
     height="100"
     />
     </a>
-    -->
 <!--  EXPRESSJS  -->
-<!--
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
     src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
     alt="expressjs"
@@ -98,18 +103,6 @@
     height="100"
     />
     </a>
-    -->
-<!--  SQL  -->
-<!--
-      <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png"
-    alt="SQL"
-    width="100"
-    height="100"
-    />
-    </a>
-    -->
 </p>
 
 ---
