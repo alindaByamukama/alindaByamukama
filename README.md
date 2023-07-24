@@ -8,14 +8,15 @@
 >> ✨ I am a Junior Developer expanding my skills everyday✨ 
 <p>😄 My Pronouns: She/Her.</p>
 <p>📫 Location: Kampala City, Kampala - Uganda.</p>
+<p>✨ Check out my portfolio website <a href="https://alindabyamukama.onrender.com" target="_blank">here</a>.✨</p>
 
-✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) . 
+✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) .✨
 
 ---
 
 <p>🌱 I am currently enrolled in:</p>
 
-<a href="https://www.refactory.ug/">Refactory Uganda - Software Engineering Bootcamp 12th Cohort- February - July 2023</a>
+<a href="https://www.refactory.ug/" target="_blank">Refactory Uganda - Software Engineering Bootcamp 12th Cohort from February - July 2023</a>
 
 <p>🔭 As part of my bootcamp training I’m currently learning:-</p>
 <ul>
