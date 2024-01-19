@@ -14,23 +14,7 @@
 
 ---
 
-<p>🌱 I am currently enrolled in:</p>
-
-<a href="https://www.refactory.ug/" target="_blank">Refactory Uganda - Software Engineering Bootcamp 12th Cohort from February - July 2023</a>
-
-<p>🔭 As part of my bootcamp training I’m currently learning:-</p>
-<ul>
-    <li> UML </li>
-    <li> S.O.L.I.D Software Principles </li>
-    <li> OOP </li>
-    <li> Databasing </li>
-    <li> Software Design Patterns </li>
-    <li> TDD </li>
-    <li> CI/CD </li>
-    <li> BDD </li>
-    <li> UX/UI </li>
-    <li> Refactoring </li>
-</ul>
+<p>🌱 I am currently learning:</p> Backend Engineering and Computer Science comcepts with Python, JavaScript and Go ...
 
 ---
 
