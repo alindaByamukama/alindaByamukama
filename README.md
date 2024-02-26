@@ -1,4 +1,4 @@
-![Alinda's Header](github-header-image_cl-icon-glow.png)
+![Alinda's Header](pink-sparkles-banner-gh.png)
 
 ## 👋 Hello and Welcome!
 
@@ -9,12 +9,15 @@
 <p>😄 My Pronouns: She/Her.</p>
 <p>📫 Location: Kampala City, Kampala - Uganda.</p>
 <p>✨ Check out my portfolio website <a href="https://alindabyamukama.onrender.com" target="_blank">here</a>.✨</p>
+<p>✨ Check out my YouTube Channel <a href="https://www.youtube.com/channel/UCMmhxVNrJrhuPTht0NreOmw" target="_blank">here</a>.✨</p>
 
 ✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) .✨
 
 ---
 
-<p>🌱 I am currently learning:</p> Backend Engineering and Computer Science comcepts with Python, JavaScript and Go ...
+<p> 🌱 This year I am diving deeper into: Backend Engineering and Computer Science concepts with Python, JavaScript and Go ... </p>
+<p> 🌱 I am still practicing and perfecting my JavaScript skills with various free and paid courses. </p>
+<p> 🌱 I will be posting some of my learning journey progress on my YouTube Channel, check it out and leave a comment with any suggestions or questions. Feedback is welcome. </p>
 
 ---
 
@@ -34,6 +37,24 @@
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
     alt="css3"
+    width="100"
+    height="100"
+    />
+    </a>
+<!-- FIGMA -->
+    <a href="https://www.figma.com/">
+    <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVPor-KrrAALIS5DM7uTAYXIEtgcB09IEfw&usqp=CAU"
+    alt="figma logo"
+    width="100"
+    height="100"
+    />
+    </a>
+<!-- CANVA -->
+    <a href="https://www.canva.com/">
+    <img
+    src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png"
+    alt="canva logo"
     width="100"
     height="100"
     />
@@ -61,6 +82,19 @@
     height="100"
     />
     </a>
+ <!-- PYTHON -->
+        <a
+    href="https://www.python.org/"
+    target="_blank"
+    rel="noreferrer"
+    >
+    <img
+    src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
+    alt="python two snakes logo"
+    width="100"
+    height="100"
+    />
+    </a>
 <!--  REACTJS  -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -70,7 +104,7 @@
     height="100"
     />
     </a>
-<!--  NODEJS  -->
+<!--  NODEJS  
     <a href="https://www.nodejs.com" target="_blank" rel="noreferrer">
     <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -78,8 +112,8 @@
     width="100"
     height="100"
     />
-    </a>
-<!--  EXPRESSJS  -->
+    </a> -->
+<!--  EXPRESSJS  
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
     src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
@@ -87,7 +121,7 @@
     width="100"
     height="100"
     />
-    </a>
+    </a> -->
 </p>
 
 ---
