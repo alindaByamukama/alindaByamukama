@@ -1,14 +1,14 @@
-![Alinda's Header](pink-sparkles-banner-gh.png)
+![Alinda's Header](banners/tech-banner.png)
 
 ## 👋 Hello and Welcome!
 
 ---
 
 > My name is Alinda Byamukama, thanks for visiting my GitHub profile.
->> ✨ I am a Junior Developer expanding my skills everyday✨ 
+>> ✨ I am a Software Developer expanding my skills everyday✨ 
 <p>😄 My Pronouns: She/Her.</p>
 <p>📫 Location: Kampala City, Kampala - Uganda.</p>
-<p>✨ Check out my portfolio website <a href="https://alindabyamukama.onrender.com" target="_blank">here</a>.✨</p>
+<p>✨ Check out my portfolio website <a href="https://alindabyamukama.com" target="_blank">here</a>.✨</p>
 <p>✨ Check out my YouTube Channel <a href="https://www.youtube.com/channel/UCMmhxVNrJrhuPTht0NreOmw" target="_blank">here</a>.✨</p>
 
 ✨ Connect with me on [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alindaByamukama) and [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) .✨
@@ -16,8 +16,7 @@
 ---
 
 <p> 🌱 This year I am diving deeper into: Backend Engineering and Computer Science concepts with Python, JavaScript and Go ... </p>
-<p> 🌱 I am still practicing and perfecting my JavaScript skills with various free and paid courses. </p>
-<p> 🌱 I will be posting some of my learning journey progress on my YouTube Channel, check it out and leave a comment with any suggestions or questions. Feedback is welcome. </p>
+<p> 🌱 I will be posting some of my learning journey progress on my YouTube Channel or LinkedIn profile, check it out and leave a comment with any suggestions or questions. Feedback is welcome. </p>
 
 ---
 
