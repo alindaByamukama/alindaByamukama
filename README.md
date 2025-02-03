@@ -15,8 +15,8 @@
 
 ---
 
-<p> 🌱 This year I am diving deeper into: Backend Engineering and Computer Science concepts with Python, JavaScript and Go ... </p>
-<p> 🌱 I will be posting some of my learning journey progress on my YouTube Channel or LinkedIn profile, check it out and leave a comment with any suggestions or questions. Feedback is welcome. </p>
+<p> 🌱 This year I am refreshing my skills and learning about product managment ... </p>
+<p> 🌱 I will be posting on my LinkedIn and medium about what I am learning. </p>
 
 ---
 
