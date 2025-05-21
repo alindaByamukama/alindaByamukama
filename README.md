@@ -15,8 +15,8 @@
 
 ---
 
-<p> 🌱 This year I am refreshing my skills and learning about product managment ... </p>
-<p> 🌱 I will be posting on my LinkedIn and medium about what I am learning. </p>
+<p> 🌱 This year I am pursuing a MSc in Web Design and Development ... </p>
+<p> 🌱 I will be posting on my LinkedIn about what I am learning and building. </p>
 
 ---
 
