@@ -8,7 +8,7 @@
 >> ✨ I am a Software Developer expanding my skills everyday✨ 
 <p>😄 My Pronouns: She/Her.</p>
 <p>📫 Location: Kampala City, Kampala - Uganda.</p>
-<p>✨ Check out my portfolio website <a href="https://alindabyamukama.com" target="_blank">here</a>.✨</p>
+<p>✨ Check out my portfolio website <a href="https://alindabyamukama.com" target="_blank">alindabyamukama.com</a>.✨</p>
 <!-- <p>✨ Check out my YouTube Channel <a href="https://www.youtube.com/channel/UCMmhxVNrJrhuPTht0NreOmw" target="_blank">here</a>.✨</p> -->
 
 ✨ Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alinda-byamukama-b8980120b/) .✨
