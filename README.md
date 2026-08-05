@@ -1,4 +1,4 @@
-![Alinda's Header](banners/GitHub-banner.png)
+![Alinda's Header](banners/muted-minimalist-banner.png)
 
 ## 👋 Hello and Welcome!
 
