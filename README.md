@@ -103,32 +103,14 @@
     height="100"
     />
     </a>
-<!--  NODEJS  
-    <a href="https://www.nodejs.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-    alt="nodejs"
-    width="100"
-    height="100"
-    />
-    </a> -->
-<!--  EXPRESSJS  
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-    src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"
-    alt="expressjs"
-    width="100"
-    height="100"
-    />
-    </a> -->
 </p>
 
 ---
 
 ### GitHub Stats
-<!--Anurag Hazra‘s GitHub ReadMe Stats (https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=alindaByamukama)](https://github.com/stats-organization/github-stats-extended)
 
-<!-- most used languages -->
+<!-- most used languages
 <p>
     <a href="https://github.com/alindaByamukama">
       <img 
@@ -137,11 +119,11 @@
            src="https://github-readme-stats.vercel.app/api/top-langs/?username=alindaByamukama&show_icons=true&theme=radical&layout=compact" 
            alt="Alinda's GitHub Languages"
        />
-    </a>
+    </a> -->
 </p>
                 
 <p>
-<!-- my github stats -->
+<!-- my github stats 
     <a href="https://github.com/alindaByamukama">
       <img 
            align="center" 
@@ -150,7 +132,7 @@
            alt="Alinda's GitHub Stats" 
        />
     </a>
-</p>
+</p> -->
 
 <!--
 ## 📫 Here is where you can find me ...
@@ -163,16 +145,3 @@
 <!-- Main resource Used to create this readme (https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1) -->
 <!--
 **alindaByamukama/alindaByamukama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mastering Vanilla JavaScript by creating various projects.
-- 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... 
-- ✨ Sparkles ... could be used for anything!
--->
